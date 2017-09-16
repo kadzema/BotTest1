@@ -54,6 +54,6 @@ while(True): # and counter <2):
     TweetOut(city)
 
     # Once tweeted, wait 60 seconds before doing anything else
-    time.sleep(60)
+    time.sleep(3600)
 
     # counter += 1
