@@ -47,7 +47,7 @@ def TweetOut(city):
 # counter = 0
 
 # Infinitely loop
-while(True) # and counter <2):
+while(True): # and counter <2):
 
     city = "Montclair, NJ"
     # Call the TweetQuotes function and specify the tweet number
